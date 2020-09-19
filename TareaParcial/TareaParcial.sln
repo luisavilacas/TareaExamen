@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaParcial", "TareaParcial\TareaParcial.csproj", "{83D0F412-22A9-4CD1-A161-E7934AB079C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaExamenFrame", "TareaExamenFrame\TareaExamenFrame.csproj", "{ABE18BD3-7010-4CFD-823C-75F828833D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83D0F412-22A9-4CD1-A161-E7934AB079C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D0F412-22A9-4CD1-A161-E7934AB079C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D0F412-22A9-4CD1-A161-E7934AB079C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D0F412-22A9-4CD1-A161-E7934AB079C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE18BD3-7010-4CFD-823C-75F828833D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE18BD3-7010-4CFD-823C-75F828833D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE18BD3-7010-4CFD-823C-75F828833D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE18BD3-7010-4CFD-823C-75F828833D15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D5D7BE7-E0AE-4831-AA90-B11C7D9FF520}
+	EndGlobalSection
+EndGlobal
